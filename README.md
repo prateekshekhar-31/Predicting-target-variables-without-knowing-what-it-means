@@ -1,0 +1,2 @@
+# Predicting-target-variables-without-knowing-what-it-means
+A dataset was provided having many multiclass features.The aim was to predict the target variables A and B and nothing was known about them.After performing Feature Engineering and Feature Selection different ML algorithms were applied to achieve the best f score for categorical target variable(B) and the minimum RMSE for the continuous target variable (A)
